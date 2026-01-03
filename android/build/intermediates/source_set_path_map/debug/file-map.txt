@@ -1,0 +1,7 @@
+com.mygdx.game.android-pngs-0 R:\sprint\android\build\generated\res\pngs\debug
+com.mygdx.game.android-resValues-1 R:\sprint\android\build\generated\res\resValues\debug
+com.mygdx.game.android-packageDebugResources-2 R:\sprint\android\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mygdx.game.android-packageDebugResources-3 R:\sprint\android\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mygdx.game.android-merged_res-4 R:\sprint\android\build\intermediates\merged_res\debug
+com.mygdx.game.android-android-5 R:\sprint\android\res
+com.mygdx.game.android-debug-6 R:\sprint\android\src\debug\res
